@@ -1,0 +1,26 @@
+<annotation>
+	<folder>diver</folder>
+	<filename>41. diver-thumb-large.jpg</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\downloads\diver\41. diver-thumb-large.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>958</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>38</ymin>
+			<xmax>865</xmax>
+			<ymax>569</ymax>
+		</bndbox>
+	</object>
+</annotation>

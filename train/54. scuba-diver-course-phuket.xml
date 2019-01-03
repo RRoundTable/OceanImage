@@ -1,0 +1,26 @@
+<annotation>
+	<folder>diver</folder>
+	<filename>54. scuba-diver-course-phuket.jpg</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\downloads\diver\54. scuba-diver-course-phuket.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>44</ymin>
+			<xmax>889</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>

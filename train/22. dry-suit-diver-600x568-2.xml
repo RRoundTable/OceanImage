@@ -1,0 +1,26 @@
+<annotation>
+	<folder>diver</folder>
+	<filename>22. dry-suit-diver-600x568-2.jpg</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\downloads\diver\22. dry-suit-diver-600x568-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>684</width>
+		<height>385</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>30</ymin>
+			<xmax>668</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

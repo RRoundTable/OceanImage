@@ -1,0 +1,38 @@
+<annotation>
+	<folder>diver</folder>
+	<filename>25. fgb-coralspawn-2011-mfn-diver-whaleshark.jpg</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\downloads\diver\25. fgb-coralspawn-2011-mfn-diver-whaleshark.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>74</ymin>
+			<xmax>515</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>461</xmin>
+			<ymin>166</ymin>
+			<xmax>911</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

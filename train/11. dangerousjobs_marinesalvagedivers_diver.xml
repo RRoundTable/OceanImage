@@ -1,0 +1,26 @@
+<annotation>
+	<folder>diver</folder>
+	<filename>11. dangerousjobs_marinesalvagedivers_diver.jpg</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\downloads\diver\11. dangerousjobs_marinesalvagedivers_diver.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>125</ymin>
+			<xmax>688</xmax>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+</annotation>

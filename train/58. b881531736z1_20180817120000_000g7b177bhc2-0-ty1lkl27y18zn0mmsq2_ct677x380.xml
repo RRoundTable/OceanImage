@@ -1,0 +1,26 @@
+<annotation>
+	<folder>diver</folder>
+	<filename>58. b881531736z1_20180817120000_000g7b177bhc2-0-ty1lkl27y18zn0mmsq2_ct677x380.jpg</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\downloads\diver\58. b881531736z1_20180817120000_000g7b177bhc2-0-ty1lkl27y18zn0mmsq2_ct677x380.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>677</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>166</ymin>
+			<xmax>537</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

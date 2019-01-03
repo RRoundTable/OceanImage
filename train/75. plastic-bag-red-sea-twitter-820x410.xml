@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plastic bag ocean pollution</folder>
+	<filename>75. plastic-bag-red-sea-twitter-820x410.jpg</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\downloads\plastic bag ocean pollution\75. plastic-bag-red-sea-twitter-820x410.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>820</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>69</ymin>
+			<xmax>652</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

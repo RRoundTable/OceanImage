@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plastic bag ocean pollution</folder>
+	<filename>28. et-reef2129-big-550x330.jpg</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\downloads\plastic bag ocean pollution\28. et-reef2129-big-550x330.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>330</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>91</ymin>
+			<xmax>386</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

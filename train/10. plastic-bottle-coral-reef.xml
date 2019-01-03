@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ocean litter</folder>
+	<filename>10. plastic-bottle-coral-reef.jpg</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\ocean litter\10. plastic-bottle-coral-reef.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>439</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymin>276</ymin>
+			<xmax>530</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

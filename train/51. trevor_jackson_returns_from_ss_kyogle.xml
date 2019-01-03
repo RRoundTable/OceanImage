@@ -1,0 +1,26 @@
+<annotation>
+	<folder>diver</folder>
+	<filename>51. trevor_jackson_returns_from_ss_kyogle.jpg</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\downloads\diver\51. trevor_jackson_returns_from_ss_kyogle.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>802</width>
+		<height>602</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>37</ymin>
+			<xmax>722</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+</annotation>

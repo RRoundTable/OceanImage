@@ -1,0 +1,38 @@
+<annotation>
+	<folder>diver</folder>
+	<filename>7. gettyimages-511071541-590ff3b23df78c92833da36f.jpg</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\downloads\diver\7. gettyimages-511071541-590ff3b23df78c92833da36f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>112</ymin>
+			<xmax>768</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>130</ymin>
+			<xmax>203</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

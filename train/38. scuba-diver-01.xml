@@ -1,0 +1,26 @@
+<annotation>
+	<folder>diver</folder>
+	<filename>38. scuba-diver-01.png</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\downloads\diver\38. scuba-diver-01.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>674</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>13</ymin>
+			<xmax>656</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

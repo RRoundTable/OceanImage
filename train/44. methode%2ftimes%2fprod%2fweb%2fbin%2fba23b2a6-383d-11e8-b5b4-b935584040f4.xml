@@ -1,0 +1,50 @@
+<annotation>
+	<folder>ocean litter</folder>
+	<filename>44. methode%2ftimes%2fprod%2fweb%2fbin%2fba23b2a6-383d-11e8-b5b4-b935584040f4.jpg</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\ocean litter\44. methode%2ftimes%2fprod%2fweb%2fbin%2fba23b2a6-383d-11e8-b5b4-b935584040f4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>685</width>
+		<height>385</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>190</ymin>
+			<xmax>511</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>132</ymin>
+			<xmax>354</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>151</ymin>
+			<xmax>454</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

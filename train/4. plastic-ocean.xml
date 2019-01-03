@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ocean litter</folder>
+	<filename>4. plastic-ocean.png</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\ocean litter\4. plastic-ocean.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>140</ymin>
+			<xmax>433</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>ocean litter</folder>
+	<filename>53. fishing-for-litter-9591-359x540.jpg</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\ocean litter\53. fishing-for-litter-9591-359x540.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>359</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>238</ymin>
+			<xmax>227</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>350</ymin>
+			<xmax>353</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

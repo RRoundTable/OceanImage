@@ -1,0 +1,26 @@
+<annotation>
+	<folder>diver</folder>
+	<filename>29. relaxeddiver.jpg</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\downloads\diver\29. relaxeddiver.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>37</ymin>
+			<xmax>485</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

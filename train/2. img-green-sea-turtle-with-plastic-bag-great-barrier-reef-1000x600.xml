@@ -1,0 +1,38 @@
+<annotation>
+	<folder>plastic bag ocean pollution</folder>
+	<filename>2. img-green-sea-turtle-with-plastic-bag-great-barrier-reef-1000x600.jpg</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\downloads\plastic bag ocean pollution\2. img-green-sea-turtle-with-plastic-bag-great-barrier-reef-1000x600.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>82</ymin>
+			<xmax>541</xmax>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>litter</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>56</ymin>
+			<xmax>1000</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+</annotation>

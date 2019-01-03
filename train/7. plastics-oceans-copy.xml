@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plastic bag ocean pollution</folder>
+	<filename>7. plastics-oceans-copy.jpg</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\downloads\plastic bag ocean pollution\7. plastics-oceans-copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>759</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>124</ymin>
+			<xmax>311</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

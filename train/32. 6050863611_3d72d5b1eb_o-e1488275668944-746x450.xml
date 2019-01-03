@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ocean litter</folder>
+	<filename>32. 6050863611_3d72d5b1eb_o-e1488275668944-746x450.jpg</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\ocean litter\32. 6050863611_3d72d5b1eb_o-e1488275668944-746x450.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>746</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>litter</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>241</ymin>
+			<xmax>389</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

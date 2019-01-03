@@ -1,0 +1,38 @@
+<annotation>
+	<folder>diver</folder>
+	<filename>42. get-your-padi-open-water-diver-certification-in-el-nido.jpg</filename>
+	<path>C:\Users\ryu07\OneDrive\sourceCode\object_detection\image\downloads\diver\42. get-your-padi-open-water-diver-certification-in-el-nido.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>89</ymin>
+			<xmax>525</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>237</ymin>
+			<xmax>527</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>
